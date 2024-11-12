@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Edin Dzilic</title>
+    <link>https://edindzilic.com/</link>
+    <description>Recent content in Home on Edin Dzilic</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Nov 2024 21:05:00 -0700</lastBuildDate>
+    <atom:link href="https://edindzilic.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mypost</title>
+      <link>https://edindzilic.com/posts/mypost/</link>
+      <pubDate>Mon, 11 Nov 2024 21:05:00 -0700</pubDate>
+      <guid>https://edindzilic.com/posts/mypost/</guid>
+      <description>&lt;p&gt;Hello world.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
